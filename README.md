@@ -126,4 +126,8 @@ Here are some screenshots of the application:
 
 ![image](https://github.com/user-attachments/assets/ebd0b4db-add5-4846-93e9-45b9e842b06b)
 
+## Introduction Video
+
+https://github.com/user-attachments/assets/26ebaacc-b466-4869-bc1d-927433cb55c6
+
 ---
