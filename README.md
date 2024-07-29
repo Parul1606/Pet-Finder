@@ -1,4 +1,3 @@
-
 ---
 
 # Pet Finder Application
@@ -14,7 +13,8 @@ Welcome to the Pet Listing Application! This project is a modern web app I built
 5. [Design Decisions](#design-decisions)
 6. [Usage](#usage)
 7. [Contributing](#contributing)
-
+8. [Introduction Video](#introduction-video)
+9. [Screenshots](#screenshots)  <!-- Added this link -->
 
 ## Project Overview
 
@@ -116,6 +116,14 @@ I welcome contributions! Here’s how you can get involved:
 3. **Commit your changes** and push to your fork.
 4. **Submit a pull request** with details about what you’ve done.
 
----
+## Screenshots
 
-Feel free to tweak this as needed! Let me know if there’s anything else you’d like to add.
+Here are some screenshots of the application:
+
+![image](https://github.com/user-attachments/assets/e4469f6a-813d-485a-a238-f81955c04d84)
+
+![image](https://github.com/user-attachments/assets/0a7882bb-e864-4e9f-8587-a2280d9966b1)
+
+![image](https://github.com/user-attachments/assets/ebd0b4db-add5-4846-93e9-45b9e842b06b)
+
+---
