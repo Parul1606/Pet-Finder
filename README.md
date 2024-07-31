@@ -2,7 +2,7 @@
 
 # Pet Finder Application
 
-Welcome to the Pet Listing Application! This project is a modern web app I built to help users easily search for and manage their favorite pets. It’s packed with cool features and uses some awesome technologies to make everything run smoothly.
+Welcome to the Pet Finder Application! This project is a modern web app I built to help users easily search for and manage their favorite pets. It’s packed with cool features and uses some awesome technologies to make everything run smoothly.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Welcome to the Pet Listing Application! This project is a modern web app I built
 
 ## Project Overview
 
-In this Pet Listing Application, you can:
+In this Pet Finder Application, you can:
 
 - **Search** for pets by type, location, and breed.
 - **View** detailed info about each pet you’re interested in.
@@ -54,13 +54,13 @@ Getting this project up and running on your local machine is straightforward. He
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/pet-listing-app.git
+    git clone https://github.com/your-username/Pet-Finder.git
     ```
 
 2. **Navigate into the project directory:**
 
     ```bash
-    cd pet-listing-app
+    cd Pet-Finder
     ```
 
 3. **Install dependencies:**
@@ -106,15 +106,6 @@ Here’s how you can use the app:
 1. **Search for Pets**: Use the search bar in the navbar to filter pets by type, location, and breed.
 2. **View Pet Details**: Click on a pet card to see more information.
 3. **Manage Favorites**: Add pets to your favorites list and view them via the favorites page.
-
-## Contributing
-
-I welcome contributions! Here’s how you can get involved:
-
-1. **Fork the repository**.
-2. **Create a new branch** for your changes.
-3. **Commit your changes** and push to your fork.
-4. **Submit a pull request** with details about what you’ve done.
 
 ## Screenshots
 
